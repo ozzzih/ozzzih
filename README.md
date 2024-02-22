@@ -4,18 +4,13 @@
     
 ## Hello, I'm Jihyun.🖐
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fozzzih&count_bg=%23EC9FBE&title_bg=%23F041A5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ozzzih)
-I'm styding 
-## 💻 DEV's log 💻
+<br>
+
+
+ ## 🎈 Follow Me 🎈  
 <div style="display:flex; flex-direction:row;">
     <a href="https://ozzzih.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-</div><br>
-
- ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:dhwlgus3031@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     <a href="https://www.instagram.com/ozzzih">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -23,6 +18,9 @@ I'm styding
     <a href="https://www.linkedin.com/in/%EC%A7%80%ED%98%84-%EC%98%A4-a99651262/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
     </a> 
+    <a href="mailto:dhwlgus3031@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
 </div><br>
 
 ## 🔨 Once I've used 🔨
