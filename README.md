@@ -75,6 +75,6 @@ Here are some ideas to get you started:
 -->
   
 </div>
-
+<img src="https://github.com/ozzzih/ozzzih/blob/output/github-contribution-grid-snake.svg"/>
 
 
