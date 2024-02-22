@@ -18,6 +18,9 @@
     <a href="https://www.instagram.com/ozzzih">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a> 
+    <a href="https://www.linkedin.com/in/%EC%A7%80%ED%98%84-%EC%98%A4-a99651262/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
+    </a> 
 </div><br>
 
 ## 🔨 Once I've used 🔨
