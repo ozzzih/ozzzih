@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+ozzzih's+GitHub!👋)](https://git.io/typing-svg)
-<div align="center">
+</div>
 
 ## Hello, I'm Jihyun.🖐
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fozzzih&count_bg=%23EC9FBE&title_bg=%23F041A5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ozzzih)
+I'm styding 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://ozzzih.tistory.com">
@@ -54,6 +55,7 @@
 </div><br>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozzzih&layout=compact)
 <!--
 **ozzzih/ozzzih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
