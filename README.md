@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&size=45&duration=3500&pause=3&color=4D5061&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+ozzzih's+GitHub!👋)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&size=45&duration=3500&pause=3&color=4D5061&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=ozzzih's+GitHub)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,9 +16,6 @@
     <a href="https://ozzzih.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://www.instagram.com/ozzzih">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a> 
     <a href="https://www.linkedin.com/in/%EC%A7%80%ED%98%84-%EC%98%A4-a99651262/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
     </a> 
