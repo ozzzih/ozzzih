@@ -38,7 +38,6 @@
         <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div> 
-
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
